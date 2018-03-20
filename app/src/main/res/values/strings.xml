@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Web Radio</string>
+
+    <string name="b1">Benvenuto!</string>
+    <string name="b2">Goditi </string>
+
+    <string-array name="test">
+        <item>prova</item>
+        <item>test</item>
+        <item>ppppppp</item>
+
+    </string-array>
+
+
+
+    <string name="select">Seleziona una radio</string>
+    <string-array name="stream_list">
+        <item>Seleziona una radio</item>
+        <item>Radio Reklama</item>
+        <item>Radio Base</item>
+        <item>Virgin Radio</item>
+        <item>Radio RTL</item>
+        <item>Radio Deejay</item>
+        <item>Radio Capital</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Web Radio</string>
+    <string name="b1">Welcome!</string>
+    <string name="b2">"Enjoy "</string>
+
+
+    <string name="select">Select a radio</string>
+    <string-array name="stream_list">
+        <item>Select a radio</item>
+        <item>Reklama Radio</item>
+        <item>Base Radio</item>
+        <item>Virgin Radio</item>
+        <item>RTL Radio</item>
+        <item>Deejay Radio</item>
+        <item>Capital Radio</item>
+    </string-array>
+
+</resources>
